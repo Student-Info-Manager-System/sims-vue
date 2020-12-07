@@ -1,0 +1,54 @@
+[
+    [],
+    [],
+    [],
+    [
+        [
+            {
+                "name": "添加学生",
+                "icon": "https://img.yzcdn.cn/vant/custom-icon-fire.png",
+                "url": "addStudent"
+            },
+            {
+                "name": "添加班级",
+                "icon": "https://img.yzcdn.cn/vant/custom-icon-fire.png",
+                "url": "addGrade"
+            },
+            {
+                "name": "添加课程",
+                "icon": "https://img.yzcdn.cn/vant/custom-icon-fire.png",
+                "url": "addCourse"
+            }
+        ],
+        [
+            {
+                "name": "班级排课",
+                "icon": "https://img.yzcdn.cn/vant/custom-icon-light.png",
+                "url": "addTimetable"
+            }
+        ],
+        [
+            {
+                "name": "退出帐号",
+                "icon": "https://img.yzcdn.cn/vant/custom-icon-water.png",
+                "url": "logout"
+            },{
+                "name": "修改密码",
+                "icon": "https://img.yzcdn.cn/vant/custom-icon-water.png",
+                "url": "editPwd"
+            }
+        ]
+    ],
+    [
+        {
+            "name": "退出帐号",
+            "icon": "https://img.yzcdn.cn/vant/custom-icon-fire.png",
+            "url": "logout"
+        },
+        {
+            "name": "修改密码",
+            "icon": "https://img.yzcdn.cn/vant/custom-icon-fire.png",
+            "url": "editPwd"
+        }
+    ]
+]

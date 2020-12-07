@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "title": "首页",
+            "icon": "home-o",
+            "url": "home"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "title": "首页",
+            "icon": "home-o",
+            "url": "home"
+        },
+        {
+            "title": "班级管理",
+            "icon": "flag-o",
+            "url": "gradeManager"
+        },
+        {
+            "title": "学生管理",
+            "icon": "friends-o",
+            "url": "studentManager"
+        },
+        {
+            "title": "课程管理",
+            "icon": "coupon-o",
+            "url": "courseManager"
+        },
+        {
+            "title": "成绩管理",
+            "icon": "orders-o",
+            "url": "achievementManager"
+        },
+        {
+            "title": "我的",
+            "icon": "manager-o",
+            "url": "adminInfo"
+        }
+    ],
+    [
+        {
+            "title": "首页",
+            "icon": "home-o",
+            "url": "home"
+        },
+        {
+            "title": "成绩查询",
+            "icon": "search",
+            "url": "infoSearch"
+        },
+        {
+            "title": "我的班级",
+            "icon": "friends-o",
+            "url": "myGrade"
+        },
+        {
+            "title": "课程安排",
+            "icon": "todo-list-o",
+            "url": "studentTable"
+        },
+        {
+            "title": "我的",
+            "icon": "manager-o",
+            "url": "studentInfo"
+        }
+    ]
+]
